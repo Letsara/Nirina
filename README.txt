@@ -8,4 +8,4 @@ wrangler-data.R - creates a derived dataset and saves as R object in rda directo
 
 analysis.R - generates a plot and saves it to the figs directory
 
-END 
+END FILE
